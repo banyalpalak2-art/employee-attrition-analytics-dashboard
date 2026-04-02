@@ -53,9 +53,9 @@ This project is an end-to-end employee attrition monitoring system that combines
 
      - High Risk  
      - Low Risk
-     - ![Uploading WhatsApp Image 2026-04-02 at 10.00.17.jpeg…]()
+       
 
-     -  ![Uploading WhatsApp Image 2026-04-02 at 10.00.17.jpeg…]()
+
 
 
 4. **Format Alert Message**
