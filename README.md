@@ -50,7 +50,9 @@ This project is an end-to-end employee attrition monitoring system that combines
 3. **Route by Risk Level**
    - Classifies employees into:
      - High Risk  
-     - Low Risk  
+     - Low Risk
+     -  ![Uploading WhatsApp Image 2026-04-02 at 10.00.17.jpeg…]()
+
 
 4. **Format Alert Message**
    - Generates alerts for high-risk employees  
